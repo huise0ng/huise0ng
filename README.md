@@ -8,7 +8,6 @@
 ---
 
 <div align="center">
-<b>As the nickname suggests, I want to become <br/>a developer that everyone knows.</b>
 </div>
 
 ---
