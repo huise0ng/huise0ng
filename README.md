@@ -22,14 +22,8 @@
 <br/>
 <img src="https://img.shields.io/badge/React Query-e95258?style=flat-square&logo=react-query&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-7895f9?style=flat-square&logo=Vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-4776de?style=flat-square&logo=recoil&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Jest-8e475b?style=flat-square&logo=jest&logoColor=white&"/>
-<img src="https://img.shields.io/badge/styled components-d88f82?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/webpack-3165a0?style=flat-square&logo=webpack&logoColor=white"/>
-<img src="https://img.shields.io/badge/electron-262a37?style=flat-square&logo=electron&logoColor=white"/>
   
 <div align="center">
   <br/>
