@@ -3,7 +3,8 @@
 </a>
 </div>
 <div align="center">
-<b>Study</b>
+<b>Using launage</b>
+  <br>
 <div>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
@@ -16,8 +17,11 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
   <b>blog and SNS</b>
+  <br>
+  <div>
   <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
+    </div>
 
   
 <br/>
