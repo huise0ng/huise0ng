@@ -11,10 +11,13 @@
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <br/>
+<b>Front-end</b>
+ <div>
  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle SQL-db443f?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
+ </div>
 <br/>
 
 ---
