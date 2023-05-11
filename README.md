@@ -22,8 +22,7 @@
   <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/huiseong2785@naver.com-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"/>
     </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huise0ng&layout=compact)](https://github.com/huise0ng/github-readme-stats)
-
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huise0ng&layout=compact"><br><br>
   
 <br/>
     
