@@ -26,11 +26,11 @@
 
   
 <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huise0ng&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huise0ng&show_icons=highcontrast&show=radical)
 
 ---
 
-<!--**huise0ng/huise0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!--**huise0ng/huise0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
