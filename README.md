@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 </div>
-<div align="center">>
+<div align="center">
 <b>Study</b>
 <div>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
