@@ -3,8 +3,6 @@
 
  <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-</div>
-
 <b> design </b>
 </div>
 <div align="center">
