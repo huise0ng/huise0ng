@@ -1,5 +1,5 @@
 ### Shin Hui Seong
-https://HUI SEONG.vercel.app/api?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HUI SEONG&fontSize=90" />
 </a>
 </div>
 <div align="center">
