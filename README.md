@@ -16,7 +16,7 @@
 <b>🛠 Use for work 🛠</b>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/adobeillustrator?style=for-the-badge&logo=FF9A00&logoColor=white">
+<img src="https://img.shields.io/badge/adobeillustrator?style=for-the-badge&logo=adobeillustrator&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/React Query-e95258?style=flat-square&logo=react-query&logoColor=white"/>
