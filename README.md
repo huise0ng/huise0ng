@@ -5,18 +5,10 @@
 </a>
 </div>
 
----
-
-<div align="center">
-</div>
-
----
-
-
 <b>🛠 Study for work 🛠</b>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Oracle SQL-db443f?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
