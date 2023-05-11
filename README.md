@@ -21,6 +21,7 @@
   <div>
   <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=huiseong2785@naver.com&logoColor=white"/>
     </div>
 
   
