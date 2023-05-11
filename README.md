@@ -13,21 +13,15 @@
 ---
 
 
-<b>🛠 Use for work 🛠</b>
+<b>🛠 Study for work 🛠</b>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/adobeillustrator?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/React Query-e95258?style=flat-square&logo=react-query&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/webpack-3165a0?style=flat-square&logo=webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle SQL-db443f?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 
 ---
 
