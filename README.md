@@ -1,5 +1,5 @@
 ### Shin Hui Seong
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=You're%20weclome&fontAlign=70&rotate=13&fontAlignY=25&desc=HuiSeong's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=EE82EE=200&text=Hello👋&fontAlign=70&rotate=13&fontAlignY=25&desc=HuiSeong's%20GitHub&descAlign=70.&descAlignY=44)
 </a>
 </div>
 <div align="center">
