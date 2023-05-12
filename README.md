@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
   <img src="https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=lg&logoColor=white"/>
   <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  </div>
+ 
 <b>Using launage</b>
 <br>
 <div>
