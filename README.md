@@ -2,8 +2,14 @@
 </a>
 </div>
 <div align="center">
-<b>Using launage</b>
+  <b>device used</b>
   <br>
+  <img src="https://img.shields.io/badge/samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=lg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  </div>
+<b>Using launage</b>
+<br>
 <div>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
