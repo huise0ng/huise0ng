@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/laptop-A50034?style=for-the-badge&logo=lg&logoColor=white"/>
   <img src="https://img.shields.io/badge/ipad-000000?style=for-the-badge&logo=apple&logoColor=white"/>
  
-<b>Using launage & Tool</b>
+<b>to use</b>
 <div>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logoarduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
