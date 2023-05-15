@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <br>
+  
+  
+  
+  
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -29,10 +33,23 @@
   <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="huiseong2785@naver.com"><img src="https://img.shields.io/badge/huiseong2785@naver.com-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"/>
-    </div>
-    <br>
-    <br>
-    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huise0ng&layout=compact"><br><br>
-  
+   
+    
+    
+</div>
+    
+---
+    
+    
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huise0ng&layout=compact"><br><br>
+    
+---
+    
+    
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=algorithm&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=algorithm">
+</picture>](https://github.com/huise0ng/algorithm)
 <br/>
     
