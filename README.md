@@ -5,14 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80+Hello👋+I'm+HuiSeong+Shin.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </a>
 </div>
-<div align="center">
-  <b>device used</b>
+<div align=center><h1>🧸 Device used </h1></div>
+<div align=center>
   <br>
   <img src="https://img.shields.io/badge/Z plip 4-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultra PC-A50034?style=for-the-badge&logo=lg&logoColor=white"/>
   <img src="https://img.shields.io/badge/I pad pro 4-000000?style=for-the-badge&logo=apple&logoColor=white"/>
  
-<b>to use</b>
+<div align=center><h1>🧸 To use </h1></div>
 <div>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
-  <b>About me</b>
+  <div align=center><h1> 🧸 About me </h1></div>
   <br>
   <div>
   <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
