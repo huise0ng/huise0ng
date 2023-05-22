@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello👋&fontAlign=70&rotate=13&fontAlignY=25&desc=HuiSeong's%20GitHub&descAlign=70.&descAlignY=44)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi%2C+Hello👋+I'm+HuiSeong+Shin.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </a>
 </div>
 <div align="center">
