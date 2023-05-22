@@ -48,8 +48,3 @@
 ---
     
     
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=algorithm&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=algorithm">
-</picture>](https://github.com/huise0ng/algorithm)
-<br/>
-    
