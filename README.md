@@ -4,7 +4,7 @@
 <div align="center">
   <b>device used</b>
   <br>
-  <img src="https://img.shields.io/badge/Z-plip 4-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Z plip 4-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultra PC-A50034?style=for-the-badge&logo=lg&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ipad pro 4-000000?style=for-the-badge&logo=apple&logoColor=white"/>
  
