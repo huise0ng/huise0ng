@@ -30,7 +30,7 @@
   <div align=center><h1> 🧸 FOLLOW ME 🧸  </h1></div>
   <br>
   <div>
-  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  <a href="https://huise0ng.tistory.com/manage/posts"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="mailto:huiseong2785@naver.com"><img src="https://img.shields.io/badge/huiseong2785@naver.com-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"/>
    
