@@ -2,13 +2,13 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80+Hello👋+I'm+HuiSeong+Shin.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=435&lines=%E3%80%80%E3%80%80+Hello👋+I'm+HuiSeong +%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </a>
 </div>
 
 <div align=center>
   
-<div align=center><h1>🧸 To use </h1></div>
+<div align=center><h1>🧸 STACK 🧸 </h1></div>
 <div>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
-  <div align=center><h1> 🧸 About me </h1></div>
+  <div align=center><h1> 🧸 FOLLOW ME 🧸  </h1></div>
   <br>
   <div>
   <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
@@ -52,6 +52,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=arduino&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=arduino">
 </picture>](https://github.com/huise0ng/arduino)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Oracle&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Oracle">
+</picture>](https://github.com/huise0ng/Oracle)
 <br/>
     
 ---
