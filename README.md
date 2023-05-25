@@ -44,6 +44,7 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huise0ng&layout=dark"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Woongbin06&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" width="50%">
     
 ---
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=algorithm&theme=github_dark"/>
