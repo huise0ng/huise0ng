@@ -55,6 +55,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Oracle&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Oracle">
 </picture>](https://github.com/huise0ng/Oracle)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Team.One-shot-to-your-head&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Team.One-shot-to-your-head">
+</picture>](https://github.com/huise0ng/Team.One-shot-to-your-head.git)
 <br/>
     
 ---
