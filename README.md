@@ -7,7 +7,7 @@
 
 ### 누구에게나 도움을 줄 수 있는 프론트엔드 개발자가 되는 것이 **꿈** 입니다.
 
-저의 [포트폴리오](https://www.notion.so/Shin-Hui-Se0ng-9f1acfd3e37c475190630bef14cb9b52)와 [블로그](https://huise0ng.tistory.com/)를 참고 해주세요 😁
+저의 [포트폴리오](https://www.notion.so/Shin-Hui-Se0ng-9f1acfd3e37c475190630bef14cb9b52)와 [블로그](https://huise0ng.tistory.com/)를 확인 해주세요 😁
 
 </div>
     
