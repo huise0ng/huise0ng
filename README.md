@@ -1,7 +1,7 @@
 <br><br>
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Huiseong.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BA8FF&center=true&width=435&lines=Hello%2C+I%E2%80%99m+Huiseong.;Front-end+developer)](https://git.io/typing-svg)
 ### 누구에게나 도움을 줄 수 있는 프론트엔드 개발자가 되는 것이 **꿈** 입니다.
 
 저의 [포트폴리오](https://wandering-confidence-5d5.notion.site/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4)와 [블로그](https://huise0ng.tistory.com/)에 놀러 오세요 😁
