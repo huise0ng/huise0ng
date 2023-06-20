@@ -7,7 +7,9 @@
 저의 [포트폴리오](https://wandering-confidence-5d5.notion.site/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4)와 [블로그](https://huise0ng.tistory.com/)에 놀러 오세요 😁
 
 </div>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
     
 ---
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=huise0ng&repo=Portfolio_HS&theme=github_dark"/>
