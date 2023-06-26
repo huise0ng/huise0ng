@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <br><br>
-<h2>🪄Record🪄</h2>
+<h2>💫Record💫</h2>
 <a href="https://github.com/huise0ng"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
 <a href="https://huise0ng.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 <a href="https://www.notion.so/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
