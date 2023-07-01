@@ -35,12 +35,11 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=huiseong2785)](https://solved.ac/huiseong2785)
 </div>
 
----
+
 
 <div align=center>
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huise0ng&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huise0ng&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huise0ng&theme=default)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚚🚛&fontAlign=70)
 
 </div>
