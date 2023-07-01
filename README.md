@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4D5AF7&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B++I'm+Huiseong.;Front-End+Developer+%E2%9D%A3;Web+Developer+%E2%9D%A3;%F0%9F%8F%AB+BSSM+3)](https://git.io/typing-svg)
 ### 누구에게나 도움을 줄 수 있는 프론트엔드 개발자가 되는 것이 **꿈** 입니다.
 
-저의 [포트폴리오](https://wandering-confidence-5d5.notion.site/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4)와 [블로그](https://huise0ng.tistory.com/)에 놀러 오세요 😁
-<br><br>
+저의 [노션 포트폴리오](https://wandering-confidence-5d5.notion.site/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4)와 [로켓펀치 포트폴리오](https://www.rocketpunch.com/@3fa73e6f)에서 기다립니다 🫠 <br>
+[티스토리 블로그](https://huise0ng.tistory.com/)에도 놀러오세요 🫠
 </div>
 
 ---
