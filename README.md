@@ -28,6 +28,7 @@
 <a href="https://github.com/huise0ng"><img src="https://img.shields.io/badge/Github-E6E6E6?style=flat-square&logo=github&logoColor=black"/>
 <a href="https://huise0ng.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F96F29?style=flat-square&logo=tistory&logoColor=white"/>
 <a href="https://www.notion.so/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4"><img src="https://img.shields.io/badge/Notion-FDC43E?style=flat-square&logo=notion&logoColor=white"/>
+<a href="https://www.rocketpunch.com/@huise0ng"><img src="https://img.shields.io/badge/Rocketfunch-1976D2?style=flat-square&logo=rocketdotchat&logoColor=white"/>
 <img src="https://img.shields.io/badge/huiseong2785@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 <a href="https://www.instagram.com/huise0ng/"><img src="https://img.shields.io/badge/instagram-FE5196?style=flat-square&logo=instagram&logoColor=white"/>
 <br><br>
