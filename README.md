@@ -2,7 +2,7 @@
 ---
     
 ```C
-  printf("Thanks for visiting my github.");
+  printf("웹 프로그래밍과 UI/UX에 많은 관심을 가지고 있습니다.");
   ```
     
 
