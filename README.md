@@ -1,13 +1,6 @@
-🧑‍💻 경험으로 성장하는 개발자 <b>신희성</b>입니다.
----
-    
-```C
-  printf("웹 프로그래밍과 UI/UX에 많은 관심을 가지고 있습니다.");
-  ```
-    
+<b>사회에 긍정적인 영향을 주는 서비스</b>를 만드는 개발자가 꿈인 <b>신희성</b>입니다.
 
-
+    
 > [📸 Instagram](https://www.instagram.com/) <br />
-> [📄 Notion](https://www.notion.so/8ddc897fb4ac456b902e4b576fa3fe75) <br />
-> [🚀 Rocketpunch](https://www.rocketpunch.com/@huise0ng) <br />
+> [📄 Portpolio](https://my.surfit.io/w/1147920607) <br />
 > [📒 Tistory](https://huise0ng.tistory.com/) <br />
