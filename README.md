@@ -3,5 +3,7 @@
     
 > [📸 Instagram](https://www.instagram.com/) <br />
 > [📄 Portpolio](https://my.surfit.io/w/1147920607) <br />
-> [📒 Tistory](https://huise0ng.tistory.com/) <br />
+> [📗 Velog](https://velog.io/@huise0ng) <br />
+<br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huise0ng)](https://velog.io/@huise0ng/VelogStart)
