@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate GitHub Profile 3D Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
