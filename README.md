@@ -9,7 +9,7 @@
 
 <b>My Tech Stack ...</b>
 <p>
-  <img src="https://img.shields.io/badge/React-66595C?style=flat-square&logo=react&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>  
 </p>
