@@ -1,6 +1,6 @@
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=huiseong2785)](https://github.com/huise0ng)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=huiseong2785)](https://solved.ac/profile/huiseong2785)
 
 
 ## 안녕하세요, 긍정적인 힘을 가지고 있는 개발자 신희성입니다. 
