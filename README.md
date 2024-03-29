@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuise0ng&count_bg=%23000000&title_bg=%23000000&icon=tencentqq.svg&icon_color=%23FFFFFF&title=People&edge_flat=false)](https://hits.seeyoufarm.com)
+![image](https://github.com/huise0ng/huise0ng/assets/128358820/0253aea1-d8ab-489f-a370-75c3c670771d)
 
  
 ## 안녕하세요, 팀원과 원활한 소통을 할 수 있는 개발자 신희성입니다. 
