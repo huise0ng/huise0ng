@@ -10,5 +10,5 @@
 > [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huise0ng)](https://velog.io/@huise0ng) <br>
 <sub><sup>공부하고, 흥미로운 개발에 대해 기록해요.</sup></sub>  
 
-
-
+- Contact
+  2023036@bssm.hs.kr
