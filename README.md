@@ -1,4 +1,4 @@
-(https://github.com/huise0ng/huise0ng/assets/128358820/4576467e-2af9-4fbf-9a95-a542407184cc)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=4FC08D&random=false&width=435&lines=Studying+FE%2C+Robot+Simulation.;Interested+in+JS%2C++focusing+on+Vue.js)](https://git.io/typing-svg)
 ## 안녕하세요, 항상 웃음이 넘치는 개발자 [신희성](https://siniseong.vercel.app/)입니다.
