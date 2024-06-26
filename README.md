@@ -1,5 +1,4 @@
-
-![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f39662f66312f37353966663132356664656465616664336566653638353134623730623132302e676966](https://github.com/huise0ng/huise0ng/assets/128358820/4576467e-2af9-4fbf-9a95-a542407184cc)
+(https://github.com/huise0ng/huise0ng/assets/128358820/4576467e-2af9-4fbf-9a95-a542407184cc)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=4FC08D&random=false&width=435&lines=Studying+FE%2C+Robot+Simulation.;Interested+in+JS%2C++focusing+on+Vue.js)](https://git.io/typing-svg)
 ## 안녕하세요, 항상 웃음이 넘치는 개발자 [신희성](https://siniseong.vercel.app/)입니다.
@@ -14,5 +13,5 @@
 > [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=huise0ng)](https://velog.io/@huise0ng) <br>
 <sub><sup>공부하고, 흥미로운 개발에 대해 기록해요.</sup></sub>  
 
-- Contact
-  2023036@bssm.hs.kr
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f39662f66312f37353966663132356664656465616664336566653638353134623730623132302e676966](https://github.com/huise0ng/huise0ng/assets/128358820/4576467e-2af9-4fbf-9a95-a542407184cc)
+
