@@ -10,6 +10,12 @@
     
 <br>
 
-> ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37352f39662f66312f37353966663132356664656465616664336566653638353134623730623132302e676966](https://github.com/huise0ng/huise0ng/assets/128358820/4576467e-2af9-4fbf-9a95-a542407184cc)
+> <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/huise0ng"
+  width="600"
+  height="300"
+/>
+</a>
 
 
