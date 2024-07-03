@@ -10,12 +10,14 @@
     
 <br>
 
-> <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/huise0ng"
-  width="600"
-  height="300"
-/>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/huise0ng?pet-id=573535569038493682"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 
